@@ -12,6 +12,7 @@
 | Сам герой, команда, характеры и знания | [Circle](02_CHARACTERS/CIRCLE.md) · [мир и состав](01_WORLD/WORLD_AND_CREW.md) · [канонические биографии](01_WORLD/CHARACTER_CANON_REGISTER.md) · [знания NPC](01_WORLD/NPC_KNOWLEDGE_LEDGER.md) |
 | Ограбление и тактическое состояние | [реестр](03_HEISTS/REGISTER.md) · [стандарт карт](03_HEISTS/BRIEFING_MAP_STANDARD.md) · [шаблон брифинга](03_HEISTS/BRIEFING_TEMPLATE.md) · [шаблон сцены](03_HEISTS/TACTICAL_STATE_TEMPLATE.md) |
 | Приборы, деньги, цены | [снаряжение](05_ECONOMY/GEAR_REGISTER.md) · [денежный реестр](05_ECONOMY/LEDGER.md) · [цены игры/расчёты](05_ECONOMY/PRICE_REFERENCE_2023.md) |
+| **Весь контент PAYDAY 3, включая DLC, оружие и Armor 2.0** | [Доступный пул контента](01_WORLD/CONTENT_POOL.md) — **не список имущества Circle** |
 | Учебная практика (отдельный чат) | [прогресс](04_LEARNING/PROGRESS.md) · [программа](04_LEARNING/PROGRAM.md) · [маршрут](04_LEARNING/ROADMAP.md) · [ресурсы](04_LEARNING/RESOURCE_DIRECTORY.md) |
 | Восстановление и зеркало | [сейвы](07_SAVES/README.md) · [Notion-хаб](00_SYSTEM/NOTION_ARCHIVE.md) |
 
