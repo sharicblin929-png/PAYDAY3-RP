@@ -14,7 +14,7 @@
 - [Мир и банда](01_WORLD/WORLD_AND_CREW.md) · [знания NPC](01_WORLD/NPC_KNOWLEDGE_LEDGER.md) · [канонические досье](01_WORLD/CHARACTER_CANON_REGISTER.md) · [Circle](02_CHARACTERS/CIRCLE.md).
 - [Реестр ограблений](03_HEISTS/REGISTER.md) · [стандарт карт](03_HEISTS/BRIEFING_MAP_STANDARD.md) · [шаблон брифинга](03_HEISTS/BRIEFING_TEMPLATE.md) · [состояние боя](03_HEISTS/TACTICAL_STATE_TEMPLATE.md).
 - [Учебная программа](04_LEARNING/PROGRAM.md) · [прогресс](04_LEARNING/PROGRESS.md) · [маршрут](04_LEARNING/ROADMAP.md) · [каталог ресурсов](04_LEARNING/RESOURCE_DIRECTORY.md).
-- [Финансы](05_ECONOMY/LEDGER.md) · [снаряжение/боезапас](05_ECONOMY/GEAR_REGISTER.md) · [хроника](06_CHRONICLE/INDEX.md) · [сейвы](07_SAVES/README.md) · [начальный аудит](09_AUDITS/INITIAL_AUDIT_2026-11-08.md) · [аудит независимости](09_AUDITS/INDEPENDENCE_AUDIT_2026-11-08.md) · [готовность к удалению старых проектов](09_AUDITS/DELETE_OLD_PROJECTS_CHECK_2026-11-08.md) · [финальный аудит GM](09_AUDITS/FINAL_READINESS_2026-11-08.md).
+- [Цены PAYDAY 3 и калибровка RPG](05_ECONOMY/PRICE_REFERENCE_2023.md) · [финансы](05_ECONOMY/LEDGER.md) · [снаряжение/боезапас](05_ECONOMY/GEAR_REGISTER.md) · [хроника](06_CHRONICLE/INDEX.md) · [сейвы](07_SAVES/README.md) · [начальный аудит](09_AUDITS/INITIAL_AUDIT_2026-11-08.md) · [аудит независимости](09_AUDITS/INDEPENDENCE_AUDIT_2026-11-08.md) · [готовность к удалению старых проектов](09_AUDITS/DELETE_OLD_PROJECTS_CHECK_2026-11-08.md) · [финальный аудит GM](09_AUDITS/FINAL_READINESS_2026-11-08.md).
 
 ## Операционная логика
 - Новая RPG полностью самостоятельна: прежние RPG-репозитории НЕ читать. Их технические и игровые принципы уже отражены здесь; чужие сюжетные состояния не переносить.
