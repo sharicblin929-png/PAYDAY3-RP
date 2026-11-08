@@ -24,7 +24,9 @@
 ## Источники
 - [Основная площадка — TryHackMe](https://tryhackme.com/)
 - [Переданный пользователем awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources)
-- [Предыдущий обработанный каталог](https://github.com/sharicblin929-png/CYBERPUNK2077-RP/blob/main/05_LEARNING/ETHICAL_HACKING_RESOURCE_DIRECTORY.md)
+- [Внутренний самостоятельный каталог](RESOURCE_DIRECTORY.md) и [внутренний учебный маршрут](ROADMAP.md)
 - Дополнительно OWASP Juice Shop, Hacker101, Root-Me, CTFLearn, VulnHub и прочие подходящие стенды — конкретную ссылку/актуальность проверять **при назначении** задания.
 
 **Нельзя:** по вымышленному сюжету автоматически определять scope реальной сети; подменять работу пользователя готовым результатом; переносить секреты настоящих учётных записей в публичный репозиторий.
+
+**Для любого нового технического чата** достаточно [PROGRESS](PROGRESS.md), [ROADMAP](ROADMAP.md), [RESOURCE_DIRECTORY](RESOURCE_DIRECTORY.md) и этого документа. Открывать прежние RPG-архивы запрещено. При необходимости новой темы сначала обновить маршрут локально.
