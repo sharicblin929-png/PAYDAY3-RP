@@ -11,10 +11,10 @@
 - [Notion-оперативный архив](https://app.notion.com/p/4126d0e9324981e9ae7edbb038bd70f9?pvs=204) — новый независимый корневой хаб; [синхронизация и адреса](00_SYSTEM/NOTION_ARCHIVE.md).
 - [START_HERE](00_SYSTEM/START_HERE.md) — запуск любого из трёх чатов; [CURRENT](00_SYSTEM/CURRENT.md) — единственное активное состояние.
 - [RULES](00_SYSTEM/RULES.md) — постоянные принципы; [RUNBOOK](00_SYSTEM/RUNBOOK.md) — 3 чата, цикл чтения/записи.
-- [Мир и банда](01_WORLD/WORLD_AND_CREW.md) · [знания NPC](01_WORLD/NPC_KNOWLEDGE_LEDGER.md) · [Circle](02_CHARACTERS/CIRCLE.md).
-- [Реестр ограблений](03_HEISTS/REGISTER.md) · [стандарт карт](03_HEISTS/BRIEFING_MAP_STANDARD.md) · [шаблон брифинга](03_HEISTS/BRIEFING_TEMPLATE.md).
+- [Мир и банда](01_WORLD/WORLD_AND_CREW.md) · [знания NPC](01_WORLD/NPC_KNOWLEDGE_LEDGER.md) · [канонические досье](01_WORLD/CHARACTER_CANON_REGISTER.md) · [Circle](02_CHARACTERS/CIRCLE.md).
+- [Реестр ограблений](03_HEISTS/REGISTER.md) · [стандарт карт](03_HEISTS/BRIEFING_MAP_STANDARD.md) · [шаблон брифинга](03_HEISTS/BRIEFING_TEMPLATE.md) · [состояние боя](03_HEISTS/TACTICAL_STATE_TEMPLATE.md).
 - [Учебная программа](04_LEARNING/PROGRAM.md) · [прогресс](04_LEARNING/PROGRESS.md) · [маршрут](04_LEARNING/ROADMAP.md) · [каталог ресурсов](04_LEARNING/RESOURCE_DIRECTORY.md).
-- [Финансы/имущество](05_ECONOMY/LEDGER.md) · [хроника](06_CHRONICLE/INDEX.md) · [сейвы](07_SAVES/README.md) · [начальный аудит](09_AUDITS/INITIAL_AUDIT_2026-11-08.md) · [аудит независимости](09_AUDITS/INDEPENDENCE_AUDIT_2026-11-08.md) · [готовность к удалению старых проектов](09_AUDITS/DELETE_OLD_PROJECTS_CHECK_2026-11-08.md).
+- [Финансы](05_ECONOMY/LEDGER.md) · [снаряжение/боезапас](05_ECONOMY/GEAR_REGISTER.md) · [хроника](06_CHRONICLE/INDEX.md) · [сейвы](07_SAVES/README.md) · [начальный аудит](09_AUDITS/INITIAL_AUDIT_2026-11-08.md) · [аудит независимости](09_AUDITS/INDEPENDENCE_AUDIT_2026-11-08.md) · [готовность к удалению старых проектов](09_AUDITS/DELETE_OLD_PROJECTS_CHECK_2026-11-08.md) · [финальный аудит GM](09_AUDITS/FINAL_READINESS_2026-11-08.md).
 
 ## Операционная логика
 - Новая RPG полностью самостоятельна: прежние RPG-репозитории НЕ читать. Их технические и игровые принципы уже отражены здесь; чужие сюжетные состояния не переносить.
