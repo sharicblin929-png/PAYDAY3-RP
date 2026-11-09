@@ -11,7 +11,7 @@
 - **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~11 minutes away.
 - **Appearance in this scene:** Circle wears **leather jacket, black jeans, boots and dark turtleneck** (player's correction, GM-0017). **Not** the formal suit/blue gloves. He owns a **Clowninator** mask, but it has **not been established as worn or physically present** at this table. No weapons confirmed carried into the café.
 - **Props / completed actions:** Initially 8 doughnuts; **Circle ate 5**, **Joy ate 1**, **2 remain in the box between them**. Circle drank all his tea; Joy finished her cappuccino. Joy paid for food; no Circle debit.
-- **Latest (GM-0022):** Circle said he **sleeps, plays video games** and enjoys **visiting a range and maintaining/assembling his SPAS-12**. He claims he **bought the shotgun after his first job**, an already-owned item C-W03, not a new transaction. Joy teased him and asked **which video games he plays**. No specific game, range address, purchase price or first-job details are established; shotgun not known to be carried here.
+- **Latest (GM-0022):** Circle said he **sleeps, plays video games** and enjoys **visiting a range and maintaining/assembling his FSA-12G**. He claims he **bought the shotgun after his first job**, the FSA-12G now recorded as a separately owned pre-campaign shotgun C-W04, not an in-scene purchase. Joy teased him and asked **which video games he plays**. No specific game, range address, purchase price or first-job details are established; shotgun not known to be carried here.
 - **Next interaction:** Joy awaits Circle's answer about **which games he plays**. Only the player controls Circle; no automatic arrival, movement, gift, equipment or time jump.
 
 ## 2 / FACT_LOCKS — DO NOT WRITE AS A FIRST REVELATION
@@ -26,7 +26,7 @@ These are **materialized, already-played facts**; details and who knows them are
 - **U01:** identity/arrival time and intentions of Joy's unnamed colleague, what that person knows about Circle.
 - **U02:** whether and on what terms Circle joins the gang. **He is still a candidate; no assignment or heist begun.** Dallas is respected, **not automatic field commander**.
 - **U03:** gift identity, physical location/availability, whether/when a visit occurs; no gift transferred, no trip agreed.
-- **U04:** Circle's address, exact money balances, weapons/armor on person, ammunition, device counts/charges and precise SPAS-12 storage. He owns items in [GEAR](../05_ECONOMY/GEAR_REGISTER.md), **not confirmed carried here**. No new purchases/payments.
+- **U04:** Circle's address, exact money balances, weapons/armor on person, ammunition, device counts/charges and precise SPAS-12 and FSA-12G storage. He owns items in [GEAR](../05_ECONOMY/GEAR_REGISTER.md), **not confirmed carried here**. No new purchases/payments.
 - **U05:** what Joy communicated to other gang members about Circle, the content/recipients of her earlier phone notifications. **Never propagate her personal knowledge automatically**.
 - **U06:** exact background and characteristics of Circle's devices and unverified past exploits, funding details not disclosed. Record his claims as claims, not corroborated technical feats.
 
