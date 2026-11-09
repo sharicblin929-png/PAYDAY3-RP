@@ -1,6 +1,6 @@
 # KNOWLEDGE_SNAPSHOT — authoritative current beliefs / who knows what
 
-**last_consolidated=GM-0035 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
+**last_consolidated=GM-0036 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
 **Semantics:** `OBSERVED` = witnessed/heard in a played scene; `CLAIM` = character asserted it, **not independently verified**; `UNKNOWN` = explicitly still open. **Never treat "was not independently verified" as "was not told".** Updating this compact snapshot is required **only when a fact/knowledge/relationship actually changes**. Full event evidence: [GM-0001–0020](../06_CHRONICLE/INDEX.md); pre-optimization granular snapshot: [archived ledger](NPC_KNOWLEDGE_ARCHIVE_GM0001-0020.md).
 
 ## A / HARD LOCKS — witnessed by Circle and/or Joy; NO repeat reveal
@@ -13,6 +13,7 @@
 | **K05** | Circle told Joy he is newspaper «Ювелир», connected to robberies of small banks/jewellers | **Circle, Joy** (heard claim) | [GM-0005](../06_CHRONICLE/GM-0005.md) | Joy remembers the **CLAIM**, not independent proof; don't make this a new confession |
 | **K06** | Circle **already knew** Joy worked with the gang from its **Washington era**; in GM-0028 Joy agreed to that general association and that she has extensive field experience | **Circle, Joy** | [GM-0028](../06_CHRONICLE/GM-0028.md) | Do **not** present Washington history or crew membership as a new first reveal. **No specific operations, secret teammates' disclosures or dates established by this exchange** |
 | **K07** | Joy voluntarily told Circle her real name **Мика Накамура (Mika Nakamura)**; user **explicitly authorized original invention of the undisclosed name** in this RPG. **NOT a confirmed official PAYDAY fact**. Joy asked him not to say it loudly; **Joy** remains her operational name | **Circle, Joy** only; no proof other café patrons or gang members heard | [GM-0033](../06_CHRONICLE/GM-0033.md) | No re-reveal as first news to Circle; don't transfer privately heard name to other NPCs without channel |
+| **K08** | Joy **first personally introduced Dallas and Circle** in Blue Hour at ~21:30: Dallas heard the alias «Circle», knew Joy had invited him to meet an **old acquaintance**, and spoke to Circle; Circle **heard** the name Dallas but **did not turn to look** | **Dallas, Circle, Joy** | [GM-0036](../06_CHRONICLE/GM-0036.md) | Never replay first introduction; no ungrounded automatic transfer of Circle's surname, heists, tech or Joy's private real name to Dallas |
 
 ## B / JOY: additional things personally HEARD; provenance
 | ID | What Joy knows (scope explicit) | Source / confidence |
@@ -36,9 +37,9 @@
 ## C / OTHER NPC — do NOT propagate Joy's knowledge
 | NPC | Known at GM-0020 | NOT established |
 |---|---|---|
-| **Dallas** | respected leader/organizer; **not automatic field commander** | has personally met Circle; knowledge of confession/equipment; identity as guest |
+| **Dallas** | **Personally arrived and was introduced to Circle at Blue Hour (GM-0036)**. Heard Joy introduce his alias «Circle» and that he is Joy's old acquaintance; Dallas stated Joy invited him to meet that acquaintance. He stood by a spare chair, asked if intruding, **has not seated himself**. Respectable experienced organizer; **not automatic field commander** | **Civilian name Дмитрий Орлов, «Ювелир» claim, equipment, criminal history, true name of Joy from this private conversation, whether he has outside information** — none established. Circle **has not turned** to see his face |
 | **Hoxton, Chains, Wolf, Pearl, Shade** | official personalities and roles per [canon register](CHARACTER_CANON_REGISTER.md) | any personal meeting with Circle or transfer of the café conversation |
-| **Unknown male colleague/acquaintance** | **Arrived in Blue Hour ~21:30 (GM-0035)** wearing dark jacket, recognized Joy's wave, **approaching their table**; has not spoken or met Circle. **Joy recognizes him**; Circle knows only what is visibly available | **identity, role, why present, personal knowledge about Circle**, any access to past private café dialogue. **Not automatically Dallas** |
+
 | **Café staff / visitors** | saw ordinary customers talking and eating | hearing or understanding gang identity, knowing the «Ювелир» |
 
 ## D / OPEN INFORMATION (never "confirm" from silence)
