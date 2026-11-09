@@ -1,9 +1,9 @@
 # ACTIVE_STATE — оперативный снимок, PAYDAY3-RP
 
-**status=IN_PROGRESS | completed_GM=0033 | next_GM=0034 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:29**
+**status=IN_PROGRESS | completed_GM=0034 | next_GM=0035 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:29**
 **DATE_OVERRIDE:** [CHRONOLOGY_2026](CHRONOLOGY_2026.md): 2023 dates in GM-0001..0020 and SAVE_AFTER_GM-0020 are **legacy calendar labels**, canon is **2026-09-27 (Sunday)** with same time, place, actions and knowledge. **Circle stays 22 in 2026**. No in-world time jump, no replay, no edits to archived GM/SAVE.
 
-**PRIMARY_EVIDENCE:** [GM-0033](../06_CHRONICLE/GM-0033.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
+**PRIMARY_EVIDENCE:** [GM-0034](../06_CHRONICLE/GM-0034.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
 **Knowledge authority:** [NPC_KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md), not the old GM-by-GM summary. This file is an **operational cache**, not a replacement for past evidence.
 
 ## 1 / SCENE — where the NEXT reply begins
@@ -11,8 +11,8 @@
 - **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~1 minute away.
 - **Appearance in this scene:** Circle wears **leather jacket, black jeans, boots and dark turtleneck** (player's correction, GM-0017). **Not** the formal suit/blue gloves. He owns a **Clowninator** mask, but it has **not been established as worn or physically present** at this table. No weapons confirmed carried into the café.
 - **Props / completed actions:** Initially 8 doughnuts: **Circle ate 5**, **Joy ate 1 in full and has a partly eaten second** (**currently placed on her napkin**). **1 whole doughnut remains in the box** nearer Joy; she previously suggested saving it for the expected colleague, contingent on arrival. Circle drank all his tea; Joy finished her cappuccino. Joy paid for food; no Circle debit.
-- **Latest (GM-0033):** Circle asked Joy for her actual name and **explicitly authorized inventing it OOC**. Joy, after joking «Джой», **voluntarily revealed her real name «Мика Накамура» (Mika Nakamura)**, quietly to Circle. This name is **USER-AUTHORIZED ORIGINAL RPG CANON, NOT OFFICIAL PAYDAY BIOGRAPHY**; she remains known as Joy and asked Circle not to say her name loudly or invent silly diminutives. **Only Circle and Joy** are established to have heard this reveal; no third-party transmission or NPC omniscience. Her legal documents, family or further past are not defined. Guest still absent, no gift/message/contract.
-- **Next interaction:** Joy has just disclosed **«Мика Накамура»** as her real name in private conversation with Circle; awaiting his response. **~21:29**, colleague expected ~21:30 (~1 min), still absent. Her partly eaten doughnut on the napkin, one whole remains boxed. Only the player controls Circle; no automatic colleague arrival, Joy message, gifts, equipment or time skip.
+- **Latest (GM-0034):** After **10 seconds of silence** and with a perfectly serious face, Circle addressed Joy as **«Микелянджело»** despite her request not to invent silly nicknames. Joy mock-protested, jokingly mentioned the Ninja Turtles, countered by calling him **«Митяй»** (not an established permanent nickname), and laughed. **Her real name remains «Мика Накамура»**; no outsiders learned it. Brief exchange did not cross 21:30; colleague still absent, no message or new revelations. Doughnuts unchanged.
+- **Next interaction:** Joy is laughing after Circle's «Микелянджело» joke and her retort «Митяй». **~21:29**, colleague expected ~21:30 (less than a minute or so), **still absent**. Joy's unfinished doughnut on the napkin, one whole is boxed. Only player controls Circle; no automatic arrival, Joy message, gift, gear, or time skip.
 
 ## 2 / FACT_LOCKS — DO NOT WRITE AS A FIRST REVELATION
 These are **materialized, already-played facts**; details and who knows them are in [KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md).
