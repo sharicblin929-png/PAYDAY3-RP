@@ -1,6 +1,6 @@
 # KNOWLEDGE_SNAPSHOT — authoritative current beliefs / who knows what
 
-**last_consolidated=GM-0036 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
+**last_consolidated=GM-0037 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
 **Semantics:** `OBSERVED` = witnessed/heard in a played scene; `CLAIM` = character asserted it, **not independently verified**; `UNKNOWN` = explicitly still open. **Never treat "was not independently verified" as "was not told".** Updating this compact snapshot is required **only when a fact/knowledge/relationship actually changes**. Full event evidence: [GM-0001–0020](../06_CHRONICLE/INDEX.md); pre-optimization granular snapshot: [archived ledger](NPC_KNOWLEDGE_ARCHIVE_GM0001-0020.md).
 
 ## A / HARD LOCKS — witnessed by Circle and/or Joy; NO repeat reveal
@@ -37,13 +37,13 @@
 ## C / OTHER NPC — do NOT propagate Joy's knowledge
 | NPC | Known at GM-0020 | NOT established |
 |---|---|---|
-| **Dallas** | **Personally arrived and was introduced to Circle at Blue Hour (GM-0036)**. Heard Joy introduce his alias «Circle» and that he is Joy's old acquaintance; Dallas stated Joy invited him to meet that acquaintance. He stood by a spare chair, asked if intruding, **has not seated himself**. Respectable experienced organizer; **not automatic field commander** | **Civilian name Дмитрий Орлов, «Ювелир» claim, equipment, criminal history, true name of Joy from this private conversation, whether he has outside information** — none established. Circle **has not turned** to see his face |
+| **Dallas** | **First introduced to Circle in GM-0036, now seated with Circle and Joy at Blue Hour in GM-0037.** Knows alias «Circle» and Joy's description of him as an old acquaintance; saw/heard Circle's astonished squeak and hands over mouth, and **Joy admitted deliberately withholding guest identity for surprise**. Joy also told Dallas Circle **nearly prayed upon first seeing her**, a casual first-meeting anecdote. Dallas said he came simply to meet and talk. He **has no evidence yet of Circle's crime exploits or full background**. Experienced organizer, **not automatic field commander** | Civilian name Дмитрий Орлов, «Ювелир» claim, equipment, criminal history, true name of Joy from this private conversation, other unspecified pre-meeting knowledge — **not established**. Circle not forced to turn |
 | **Hoxton, Chains, Wolf, Pearl, Shade** | official personalities and roles per [canon register](CHARACTER_CANON_REGISTER.md) | any personal meeting with Circle or transfer of the café conversation |
 
 | **Café staff / visitors** | saw ordinary customers talking and eating | hearing or understanding gang identity, knowing the «Ювелир» |
 
 ## D / OPEN INFORMATION (never "confirm" from silence)
-- **U01** unnamed colleague's identity/arrival/knowledge; **U02** Circle accepted into PAYDAY? **NO**, still candidate; acceptance terms unknown.
+- **U01** Dallas **arrived and sat** at ~21:30, knows Circle's alias and old-acquaintance status, heard Joy's surprise explanation and anecdote; **any further personal knowledge remains unspecified**. **U02** Circle accepted into PAYDAY? **NO**, still candidate; acceptance terms unknown.
 - **U03** who Joy contacted by phone and what she may have told other team members — no evidence of distribution.
 - **U04** exact tech capability of Circle's prototype and details of prior robberies; Joy heard claims but did not verify them.
 - **U05** the gift's exact identity, value, location; whether a future visit happens.
