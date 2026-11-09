@@ -1,9 +1,9 @@
 # ACTIVE_STATE — оперативный снимок, PAYDAY3-RP
 
-**status=IN_PROGRESS | completed_GM=0025 | next_GM=0026 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:22**
+**status=IN_PROGRESS | completed_GM=0026 | next_GM=0027 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:22**
 **DATE_OVERRIDE:** [CHRONOLOGY_2026](CHRONOLOGY_2026.md): 2023 dates in GM-0001..0020 and SAVE_AFTER_GM-0020 are **legacy calendar labels**, canon is **2026-09-27 (Sunday)** with same time, place, actions and knowledge. **Circle stays 22 in 2026**. No in-world time jump, no replay, no edits to archived GM/SAVE.
 
-**PRIMARY_EVIDENCE:** [GM-0025](../06_CHRONICLE/GM-0025.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
+**PRIMARY_EVIDENCE:** [GM-0026](../06_CHRONICLE/GM-0026.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
 **Knowledge authority:** [NPC_KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md), not the old GM-by-GM summary. This file is an **operational cache**, not a replacement for past evidence.
 
 ## 1 / SCENE — where the NEXT reply begins
@@ -11,8 +11,8 @@
 - **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~8 minutes away.
 - **Appearance in this scene:** Circle wears **leather jacket, black jeans, boots and dark turtleneck** (player's correction, GM-0017). **Not** the formal suit/blue gloves. He owns a **Clowninator** mask, but it has **not been established as worn or physically present** at this table. No weapons confirmed carried into the café.
 - **Props / completed actions:** Initially 8 doughnuts; **Circle ate 5**, **Joy ate 1**, **2 remain in the box between them**. Circle drank all his tea; Joy finished her cappuccino. Joy paid for food; no Circle debit.
-- **Latest (GM-0025):** Circle named his two **human WoW characters**: **Demonology Warlock «Стояковскийд»** and **Shadow Priest «Стояковскийт»**, referencing Soviet poet Mayakovsky. Joy said she knew at least Mayakovsky's surname, laughed at the matching names and joked the final «д»/«т» distinguish roles; **this letter rationale is Joy's conjecture, not established by Circle**. Character levels, realms, gender and other game progress are unknown.
-- **Next interaction:** Joy is laughing about Circle's similarly named WoW characters. Conversation open; the player alone controls Circle. No automatic colleague arrival, gift, movement, gear, or time jump.
+- **Latest (GM-0026):** Circle confirmed his two WoW names again, said he does not write RPG backstories for them, and **asked when Joy's colleague will arrive**. Joy said they had agreed **around 21:30** and that it was **~21:22**, about eight minutes left. She **intends to message the colleague if they have not arrived by ~21:30**; she did not actually send a message or get a reply. Joy glanced toward the entrance, teased Circle about getting bored, and moved the box containing **2 doughnuts back toward the middle of the table**. Colleague identity and arrival unknown; no new verified facts about them.
+- **Next interaction:** Joy has answered Circle's question: colleague expected **~21:30**, still **~8 minutes away** as of 21:22. Conversation open; **only the player controls Circle**. Do not arrive the colleague, send Joy's conditional future message, move characters, transfer gift, or time-skip without actual next events.
 
 ## 2 / FACT_LOCKS — DO NOT WRITE AS A FIRST REVELATION
 These are **materialized, already-played facts**; details and who knows them are in [KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md).
