@@ -1,6 +1,6 @@
 # KNOWLEDGE_SNAPSHOT — authoritative current beliefs / who knows what
 
-**cutoff=GM-0020 | status=ACTIVE | context=Blue Hour | check before ANY "first time" revelation.**
+**last_consolidated=GM-0020 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
 **Semantics:** `OBSERVED` = witnessed/heard in a played scene; `CLAIM` = character asserted it, **not independently verified**; `UNKNOWN` = explicitly still open. **Never treat "was not independently verified" as "was not told".** Updating this compact snapshot is required **only when a fact/knowledge/relationship actually changes**. Full event evidence: [GM-0001–0020](../06_CHRONICLE/INDEX.md); pre-optimization granular snapshot: [archived ledger](NPC_KNOWLEDGE_ARCHIVE_GM0001-0020.md).
 
 ## A / HARD LOCKS — witnessed by Circle and/or Joy; NO repeat reveal

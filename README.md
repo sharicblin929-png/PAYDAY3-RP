@@ -1,8 +1,8 @@
 # PAYDAY 3 — THE NEW BLOOD | текстовая RPG
 
-**Состояние:** **GM-0020 завершён, далее GM-0021**. Действие: 27 сентября 2023, Нью-Йорк, кофейня Blue Hour, ~21:17. Главный герой — Дмитрий Орлов (Circle), 22 года, кандидат в PAYDAY Gang. **Не играть за Circle без игрока.**
+**Состояние:** RPG уже начата; **номер последнего GM, точное время и текущая сцена читаются ТОЛЬКО из [CURRENT](00_SYSTEM/CURRENT.md)**. Не хранить здесь их копию. Главный герой — Дмитрий Орлов (Circle), 22 года, кандидат в PAYDAY Gang. **Не играть за Circle без игрока.**
 
-**Минимальный маршрут для модели:** [START_HERE](00_SYSTEM/START_HERE.md) → [CURRENT](00_SYSTEM/CURRENT.md) → [KNOWLEDGE_SNAPSHOT](01_WORLD/NPC_KNOWLEDGE_LEDGER.md) → [последний GM](06_CHRONICLE/GM-0020.md). При первоначальной настройке чата прочитать [RULES](00_SYSTEM/RULES.md) и [RUNBOOK](00_SYSTEM/RUNBOOK.md); **не читать весь архив на каждый ход**.
+**Минимальный маршрут для модели:** [START_HERE](00_SYSTEM/START_HERE.md) → [CURRENT](00_SYSTEM/CURRENT.md) → [KNOWLEDGE_SNAPSHOT](01_WORLD/NPC_KNOWLEDGE_LEDGER.md) → [последний GM по ссылке в CURRENT](06_CHRONICLE/INDEX.md). При первоначальной настройке чата прочитать [RULES](00_SYSTEM/RULES.md) и [RUNBOOK](00_SYSTEM/RUNBOOK.md); **не читать весь архив на каждый ход**.
 
 ## Рабочие источники (по необходимости)
 | Задача | Единственный профильный источник |
