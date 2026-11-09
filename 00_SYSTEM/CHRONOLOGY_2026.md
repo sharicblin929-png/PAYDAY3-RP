@@ -7,9 +7,9 @@ archive_date=2023-09-27
 canonical_date=2026-09-27
 archive_weekday=Wednesday
 canonical_weekday=Sunday
-time=UNCHANGED; current≈21:17 NYC local
+time_mapping=UNCHANGED_FROM_EACH_ARCHIVED_GM; archive_GM-0020≈21:17_NYC_local; current_time=READ_CURRENT.md
 location=UNCHANGED; Blue Hour NYC
-completed_GM=0020; next_GM=0021
+archival_override_scope=GM-0001..GM-0020+SAVE_AFTER_GM-0020; live_completed_GM/next_GM=READ_CURRENT.md
 Circle_age=22 IN 2026 (no +3 years of age)
 past_2018_Circle_age≈13..14 (birth day UNKNOWN)
 scene_actions_dialogue_props_knowledge=UNCHANGED
