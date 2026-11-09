@@ -1,11 +1,13 @@
 # ACTIVE_STATE — оперативный снимок, PAYDAY3-RP
 
-**status=IN_PROGRESS | completed_GM=0020 | next_GM=0021 | save=SAVE_AFTER_GM-0020 | game_date=2023-09-27 | game_time≈21:17**
+**status=IN_PROGRESS | completed_GM=0020 | next_GM=0021 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:17**
+**DATE_OVERRIDE:** [CHRONOLOGY_2026](CHRONOLOGY_2026.md): 2023 dates in GM-0001..0020 and SAVE_AFTER_GM-0020 are **legacy calendar labels**, canon is **2026-09-27 (Sunday)** with same time, place, actions and knowledge. **Circle stays 22 in 2026**. No in-world time jump, no replay, no edits to archived GM/SAVE.
+
 **PRIMARY_EVIDENCE:** [GM-0020](../06_CHRONICLE/GM-0020.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
 **Knowledge authority:** [NPC_KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md), not the old GM-by-GM summary. This file is an **operational cache**, not a replacement for past evidence.
 
 ## 1 / SCENE — where the NEXT reply begins
-- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. Rainy evening.
+- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:17**. Rainy evening.
 - **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~13 minutes away.
 - **Appearance in this scene:** Circle wears **leather jacket, black jeans, boots and dark turtleneck** (player's correction, GM-0017). **Not** the formal suit/blue gloves. He owns a **Clowninator** mask, but it has **not been established as worn or physically present** at this table. No weapons confirmed carried into the café.
 - **Props / completed actions:** Initially 8 doughnuts; **Circle ate 5**, **Joy ate 1**, **2 remain in the box between them**. Circle drank all his tea; Joy finished her cappuccino. Joy paid for food; no Circle debit.
@@ -32,7 +34,7 @@ These are **materialized, already-played facts**; details and who knows them are
 - **Agent:** only player controls Circle's speech, thoughts and actions; [RULES](RULES.md).
 - **Tone:** NPC dialogue ordinary, short where appropriate, not ceremonial; no forced GM length.
 - **Boundaries:** nobody dies, no full failure of an accepted heist; only small/medium setbacks and possible detention. Stealth commonly, occasional grounded loud-only.
-- **Canon:** later PAYDAY 3 releases are allowed in-world regardless of real DLC release date; [CONTENT_POOL](../01_WORLD/CONTENT_POOL.md).
+- **Canon:** In-game year **2026**; all verified PAYDAY 3 content up to **released Update 3.10.1 (2026-10-29)** eligible, 3.11 still roadmap as of 2026-11-09. [CONTENT_POOL](../01_WORLD/CONTENT_POOL.md). Lore links [UNIVERSE_CANON_BRIEF](../01_WORLD/UNIVERSE_CANON_BRIEF.md); 3.9 campaign rewrite has priority, but unplayed plot outcomes not automatic.
 - **Read per reply:** this state **+ short knowledge snapshot if an NPC is present + latest GM**. Read more files only as needed: [RUNBOOK](RUNBOOK.md).
 
 **WRITE CONTRACT:** overwrite this file with **ONLY** the scene delta, compact facts locks and current open questions; **NEVER append a paragraph for every GM**. Completed dialogue, individual historical actions and detailed summaries belong to their immutable [GM files](../06_CHRONICLE/INDEX.md) and periodic [SAVES](../07_SAVES/README.md).
