@@ -15,7 +15,7 @@
 | **Весь контент PAYDAY 3, включая DLC, оружие и Armor 2.0** | [Доступный пул контента](01_WORLD/CONTENT_POOL.md) — опубликовано до **3.10.1**, не список имущества Circle |
 | **История вселенной The Heist → PAYDAY 2 → PAYDAY 3** | [Краткая карта лора](01_WORLD/UNIVERSE_CANON_BRIEF.md) — читать по сюжетному поводу |
 | Учебная практика (отдельный чат) | [прогресс](04_LEARNING/PROGRESS.md) · [программа](04_LEARNING/PROGRAM.md) · [маршрут](04_LEARNING/ROADMAP.md) · [ресурсы](04_LEARNING/RESOURCE_DIRECTORY.md) |
-| Большие сейвы, аварийная память | [GitHub checkpoint каждые 150 GM](07_SAVES/README.md) · [Notion только при отказе GitHub](00_SYSTEM/NOTION_ARCHIVE.md) |
+| Большие сейвы, аварийная память | [GitHub checkpoint каждые 50 GM](07_SAVES/README.md) · [Notion только при отказе GitHub](00_SYSTEM/NOTION_ARCHIVE.md) |
 
 **Старые аудиты:** [история проверок и актуальная ревизия](09_AUDITS/FINAL_READINESS_2026-11-08.md). Прочие файлы папки `09_AUDITS/` — **исторические снимки**, а НЕ действующие нормы; перед GM их не открывать. Они могут содержать устаревшие предположения, которые отменены поздними указаниями игрока.
 
