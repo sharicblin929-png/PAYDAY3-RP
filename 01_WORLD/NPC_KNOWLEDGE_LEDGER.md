@@ -1,6 +1,6 @@
 # KNOWLEDGE_SNAPSHOT — authoritative current beliefs / who knows what
 
-**last_consolidated=GM-0023 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
+**last_consolidated=GM-0024 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
 **Semantics:** `OBSERVED` = witnessed/heard in a played scene; `CLAIM` = character asserted it, **not independently verified**; `UNKNOWN` = explicitly still open. **Never treat "was not independently verified" as "was not told".** Updating this compact snapshot is required **only when a fact/knowledge/relationship actually changes**. Full event evidence: [GM-0001–0020](../06_CHRONICLE/INDEX.md); pre-optimization granular snapshot: [archived ledger](NPC_KNOWLEDGE_ARCHIVE_GM0001-0020.md).
 
 ## A / HARD LOCKS — witnessed by Circle and/or Joy; NO repeat reveal
@@ -26,7 +26,7 @@
 | **J09** | Their long internet friendship/forum learning predates her joining PAYDAY and paused for years. **They are friends/acquaintances, not a couple or guaranteed close confidants** | [CIRCLE](../02_CHARACTERS/CIRCLE.md); prior shared history |
 
 | **J10** | Circle **claimed** he relaxes by sleeping, gaming and practising with, assembling and maintaining his **FSA-12G**, bought with proceeds of his **first job**. Range details, amount, date **unknown**; Joy has not physically seen it in Blue Hour | [GM-0022](../06_CHRONICLE/GM-0022.md); CLAIM |
-| **J11** | Circle said he **recently began World of Warcraft** and plays **Call of Duty** more often; he particularly enjoys weapon gunplay and reload effects. Joy asked **Horde or Alliance**, but has not received an answer. No character, class, faction, platform or specific CoD entry established | [GM-0023](../06_CHRONICLE/GM-0023.md); CLAIM + OBSERVED |
+| **J11** | Circle said he **recently began World of Warcraft** and plays **Call of Duty** more often; he particularly enjoys gunplay and reload effects. In GM-0024 clarified he plays **two human characters, a Shadow Priest and a Demonology Warlock**. Humans are mechanically Alliance, but Circle explicitly **rejects faction role-play/ideological identification**. Joy has **asked their character names, not answered yet**. No character name, level, realm, gender, specific CoD installment or platform established | [GM-0023](../06_CHRONICLE/GM-0023.md), [GM-0024](../06_CHRONICLE/GM-0024.md); CLAIM + OBSERVED |
 
 ## C / OTHER NPC — do NOT propagate Joy's knowledge
 | NPC | Known at GM-0020 | NOT established |
