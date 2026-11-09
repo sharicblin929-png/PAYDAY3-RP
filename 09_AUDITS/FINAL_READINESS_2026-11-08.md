@@ -1,3 +1,17 @@
+# CURRENT AUDIT — 2026-11-09 | chronology + current content
+
+**Latest decision takes precedence over ALL historical audits below.** Canonical date **2026-09-27 (Sunday)**, same 21:17 Blue Hour and same actions of GM-0001–0020 (unchanged archival text in 2023). Circle is **22 IN 2026**, not 25; his 2018 age ~13–14. Next GM-0021. [OVERRIDE](../00_SYSTEM/CHRONOLOGY_2026.md) · [CURRENT](../00_SYSTEM/CURRENT.md).
+
+**Latest confirmed PAYDAY 3 release:** **3.10.1 (2026-10-29)**, including 3.10 Feeding Frenzy (loud-only variant), Guns Blazin' Crimebond, 3.9 campaign rework, cosmetics/weapon mods/new contracts/Armor 2.0. **3.11/3.12 roadmap only**. Official https://www.paydaythegame.com/news/tag/payday3-changelogs/ and https://www.paydaythegame.com/payday3/roadmap/ . All released content permitted in our world; **not** automatically given/played. [CONTENT_POOL](../01_WORLD/CONTENT_POOL.md).
+
+**Lore continuity:** [UNIVERSE_CANON_BRIEF](../01_WORLD/UNIVERSE_CANON_BRIEF.md) references PAYDAY: The Heist, PAYDAY 2 and new 3.9 PAYDAY 3 campaign. Avoid treating fan theories about Bain/President or PD2 late endings as certain; no past secret automatically known to Circle. **Events of old GM and SAVEs retained**, while dates are mapped explicitly. Circle's Joy/PAYDAY discovery (GM-0007), first reaction (GM-0008) and Dallas reference (GM-0015) already happened. No contracts completed; no newly invented money, gear or role changes.
+
+**Honest limit:** all published official content is **eligible** through 3.10.1, but not every paint, cosmetic SKU, weapon stat or live payout was individually verified. Before concrete use confirm by official patch notes. This document is a historical audit, not per-GM reading.
+
+---
+
+## OLDER AUDIT HISTORY — retained verbatim (obsolete statements are not active instructions)
+
 # Аудит и оптимизация — 2026-11-09
 
 **Статус этой секции: АКТУАЛЬНЫЙ АУДИТ.** Раздел ниже, озаглавленный «Исторический аудит 2026-11-08», сохраняется для истории и **не является операционным правилом**. Единственные активные нормы — [RULES](../00_SYSTEM/RULES.md), [RUNBOOK](../00_SYSTEM/RUNBOOK.md), [CURRENT](../00_SYSTEM/CURRENT.md) и профильные реестры.
