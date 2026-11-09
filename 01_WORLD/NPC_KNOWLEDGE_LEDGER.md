@@ -1,6 +1,6 @@
 # KNOWLEDGE_SNAPSHOT — authoritative current beliefs / who knows what
 
-**last_consolidated=GM-0025 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
+**last_consolidated=GM-0028 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
 **Semantics:** `OBSERVED` = witnessed/heard in a played scene; `CLAIM` = character asserted it, **not independently verified**; `UNKNOWN` = explicitly still open. **Never treat "was not independently verified" as "was not told".** Updating this compact snapshot is required **only when a fact/knowledge/relationship actually changes**. Full event evidence: [GM-0001–0020](../06_CHRONICLE/INDEX.md); pre-optimization granular snapshot: [archived ledger](NPC_KNOWLEDGE_ARCHIVE_GM0001-0020.md).
 
 ## A / HARD LOCKS — witnessed by Circle and/or Joy; NO repeat reveal
@@ -11,6 +11,7 @@
 | **K03** | Circle understood Joy's **Dallas-as-heister** joke, asked her to keep it quiet; she agreed | **Circle, Joy** | [GM-0015](../06_CHRONICLE/GM-0015.md) | Dallas reference is already understood; **not** the unknown guest's identity |
 | **K04** | Circle and Joy first **met face to face** at Blue Hour, she identified herself, he approached and sat opposite | **Circle, Joy** | [GM-0003](../06_CHRONICLE/GM-0003.md), [GM-0004](../06_CHRONICLE/GM-0004.md) | **NEVER** introduce Joy as an unknown woman again |
 | **K05** | Circle told Joy he is newspaper «Ювелир», connected to robberies of small banks/jewellers | **Circle, Joy** (heard claim) | [GM-0005](../06_CHRONICLE/GM-0005.md) | Joy remembers the **CLAIM**, not independent proof; don't make this a new confession |
+| **K06** | Circle **already knew** Joy worked with the gang from its **Washington era**; in GM-0028 Joy agreed to that general association and that she has extensive field experience | **Circle, Joy** | [GM-0028](../06_CHRONICLE/GM-0028.md) | Do **not** present Washington history or crew membership as a new first reveal. **No specific operations, secret teammates' disclosures or dates established by this exchange** |
 
 ## B / JOY: additional things personally HEARD; provenance
 | ID | What Joy knows (scope explicit) | Source / confidence |
