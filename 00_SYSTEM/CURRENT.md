@@ -1,18 +1,18 @@
 # ACTIVE_STATE — оперативный снимок, PAYDAY3-RP
 
-**status=IN_PROGRESS | completed_GM=0024 | next_GM=0025 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:21**
+**status=IN_PROGRESS | completed_GM=0025 | next_GM=0026 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:22**
 **DATE_OVERRIDE:** [CHRONOLOGY_2026](CHRONOLOGY_2026.md): 2023 dates in GM-0001..0020 and SAVE_AFTER_GM-0020 are **legacy calendar labels**, canon is **2026-09-27 (Sunday)** with same time, place, actions and knowledge. **Circle stays 22 in 2026**. No in-world time jump, no replay, no edits to archived GM/SAVE.
 
-**PRIMARY_EVIDENCE:** [GM-0024](../06_CHRONICLE/GM-0024.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
+**PRIMARY_EVIDENCE:** [GM-0025](../06_CHRONICLE/GM-0025.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
 **Knowledge authority:** [NPC_KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md), not the old GM-by-GM summary. This file is an **operational cache**, not a replacement for past evidence.
 
 ## 1 / SCENE — where the NEXT reply begins
-- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:21**. Rainy evening.
-- **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~9 minutes away.
+- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:22**. Rainy evening.
+- **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~8 minutes away.
 - **Appearance in this scene:** Circle wears **leather jacket, black jeans, boots and dark turtleneck** (player's correction, GM-0017). **Not** the formal suit/blue gloves. He owns a **Clowninator** mask, but it has **not been established as worn or physically present** at this table. No weapons confirmed carried into the café.
 - **Props / completed actions:** Initially 8 doughnuts; **Circle ate 5**, **Joy ate 1**, **2 remain in the box between them**. Circle drank all his tea; Joy finished her cappuccino. Joy paid for food; no Circle debit.
-- **Latest (GM-0024):** Circle said he doesn't role-play faction ideology in WoW and uses **two human characters: Shadow Priest and Demonology Warlock**; joked «человечество превыше всего». Humans are Alliance by game mechanics, **not a declaration of personal ideological allegiance**. Joy joked about the contrast between humanity-first and shadow/demon magic, then **asked for his characters' names**. Names, levels, realms, equipment, gender and other progression unknown.
-- **Next interaction:** Joy is asking Circle **what he named his two human WoW characters**. Only the player controls Circle; do not invent nicknames, automatically advance the colleague, give a gift, move participants or skip time.
+- **Latest (GM-0025):** Circle named his two **human WoW characters**: **Demonology Warlock «Стояковскийд»** and **Shadow Priest «Стояковскийт»**, referencing Soviet poet Mayakovsky. Joy said she knew at least Mayakovsky's surname, laughed at the matching names and joked the final «д»/«т» distinguish roles; **this letter rationale is Joy's conjecture, not established by Circle**. Character levels, realms, gender and other game progress are unknown.
+- **Next interaction:** Joy is laughing about Circle's similarly named WoW characters. Conversation open; the player alone controls Circle. No automatic colleague arrival, gift, movement, gear, or time jump.
 
 ## 2 / FACT_LOCKS — DO NOT WRITE AS A FIRST REVELATION
 These are **materialized, already-played facts**; details and who knows them are in [KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md).
