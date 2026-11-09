@@ -1,18 +1,18 @@
 # ACTIVE_STATE — оперативный снимок, PAYDAY3-RP
 
-**status=IN_PROGRESS | completed_GM=0021 | next_GM=0022 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:18**
+**status=IN_PROGRESS | completed_GM=0022 | next_GM=0023 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:19**
 **DATE_OVERRIDE:** [CHRONOLOGY_2026](CHRONOLOGY_2026.md): 2023 dates in GM-0001..0020 and SAVE_AFTER_GM-0020 are **legacy calendar labels**, canon is **2026-09-27 (Sunday)** with same time, place, actions and knowledge. **Circle stays 22 in 2026**. No in-world time jump, no replay, no edits to archived GM/SAVE.
 
-**PRIMARY_EVIDENCE:** [GM-0021](../06_CHRONICLE/GM-0021.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
+**PRIMARY_EVIDENCE:** [GM-0022](../06_CHRONICLE/GM-0022.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
 **Knowledge authority:** [NPC_KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md), not the old GM-by-GM summary. This file is an **operational cache**, not a replacement for past evidence.
 
 ## 1 / SCENE — where the NEXT reply begins
-- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:18**. Rainy evening.
-- **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~12 minutes away.
+- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:19**. Rainy evening.
+- **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~11 minutes away.
 - **Appearance in this scene:** Circle wears **leather jacket, black jeans, boots and dark turtleneck** (player's correction, GM-0017). **Not** the formal suit/blue gloves. He owns a **Clowninator** mask, but it has **not been established as worn or physically present** at this table. No weapons confirmed carried into the café.
 - **Props / completed actions:** Initially 8 doughnuts; **Circle ate 5**, **Joy ate 1**, **2 remain in the box between them**. Circle drank all his tea; Joy finished her cappuccino. Joy paid for food; no Circle debit.
-- **Latest (GM-0021):** Circle leaned back in his chair and repeated that the proposed gift is harmless but would remain a surprise until the right moment. Joy stopped asking about the gift and **asked how Circle likes to relax outside work and computers**; she teased him about doughnuts. **Circle has not answered**, and Joy has learned **no new hobby facts**. Gift identity, visit date and transfer **remain unknown/unrealized**.
-- **Next interaction:** Joy awaits Circle's response about his leisure interests. Wait for **player's next words/action as Circle**. Do not auto-arrive the colleague, hand over a gift, move characters, time-skip, or perform an action for Circle.
+- **Latest (GM-0022):** Circle said he **sleeps, plays video games** and enjoys **visiting a range and maintaining/assembling his SPAS-12**. He claims he **bought the shotgun after his first job**, an already-owned item C-W03, not a new transaction. Joy teased him and asked **which video games he plays**. No specific game, range address, purchase price or first-job details are established; shotgun not known to be carried here.
+- **Next interaction:** Joy awaits Circle's answer about **which games he plays**. Only the player controls Circle; no automatic arrival, movement, gift, equipment or time jump.
 
 ## 2 / FACT_LOCKS — DO NOT WRITE AS A FIRST REVELATION
 These are **materialized, already-played facts**; details and who knows them are in [KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md).

@@ -1,6 +1,6 @@
 # KNOWLEDGE_SNAPSHOT — authoritative current beliefs / who knows what
 
-**last_consolidated=GM-0020 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
+**last_consolidated=GM-0022 | status=ACTIVE_SNAPSHOT | context-at-consolidation=Blue Hour | check before ANY "first time" revelation.** Если текущий GM больше этого номера, проверить каждый последующий GM на **новые знания** и обновить snapshot, но не добавлять пустую запись без изменения знаний.
 **Semantics:** `OBSERVED` = witnessed/heard in a played scene; `CLAIM` = character asserted it, **not independently verified**; `UNKNOWN` = explicitly still open. **Never treat "was not independently verified" as "was not told".** Updating this compact snapshot is required **only when a fact/knowledge/relationship actually changes**. Full event evidence: [GM-0001–0020](../06_CHRONICLE/INDEX.md); pre-optimization granular snapshot: [archived ledger](NPC_KNOWLEDGE_ARCHIVE_GM0001-0020.md).
 
 ## A / HARD LOCKS — witnessed by Circle and/or Joy; NO repeat reveal
@@ -24,6 +24,8 @@
 | **J07** | Circle prefers methodical, unhurried robberies; described mistakes while carrying loot. Joy saw his **leather jacket, black jeans, boots, dark turtleneck** during this entire café meeting | [GM-0017](../06_CHRONICLE/GM-0017.md); CLAIM + OBSERVED |
 | **J08** | Circle said money isn't a problem, invited her to visit sometime, wants to give a gift described as **compact, handy, limited-function**. She has **not learned what it is**, has not received it and not agreed a visit date | [GM-0019](../06_CHRONICLE/GM-0019.md), [GM-0020](../06_CHRONICLE/GM-0020.md); CLAIM + OBSERVED |
 | **J09** | Their long internet friendship/forum learning predates her joining PAYDAY and paused for years. **They are friends/acquaintances, not a couple or guaranteed close confidants** | [CIRCLE](../02_CHARACTERS/CIRCLE.md); prior shared history |
+
+| **J10** | Circle **claimed** he relaxes by sleeping, gaming and practising with, assembling and maintaining his **SPAS-12**, bought with proceeds of his **first job**. Specific games, range details, amount, date **unknown**; Joy has not physically seen it in Blue Hour | [GM-0022](../06_CHRONICLE/GM-0022.md); CLAIM |
 
 ## C / OTHER NPC — do NOT propagate Joy's knowledge
 | NPC | Known at GM-0020 | NOT established |
