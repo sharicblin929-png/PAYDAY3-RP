@@ -10,11 +10,18 @@
 
 ---
 
-## OLDER AUDIT HISTORY — retained verbatim (obsolete statements are not active instructions)
+## Verified repository integrity — 2026-11-09
+- **All 54 files inspected**, including immutable GM-0001..GM-0020 and SAVE_AFTER_GM-0020: **0 broken internal relative Markdown links**.
+- Direct player correction supersedes old GM=0/2023 wording in historical audits; **GM=20, next GM-0021**, date **2026-09-27 Sunday 21:17**.
+- Notion CURRENT, RULES, WORLD, ECONOMY, HEISTS, HISTORY and AUDIT were updated with explicit priority pointers or targeted date corrections. Archived 2023 text in Notion HISTORY is intentionally untouched and flagged **legacy**.
+- **Completeness bound:** all officially published content through 3.10.1 is eligible and major update categories indexed; every cosmetic variation or current weapon stat is NOT individually confirmed. Verify concrete numbers by source if used.
+- No new GM, purchases, or alteration of player actions.
+
+## OLDER AUDIT HISTORY — retained for provenance (NOT active instructions)
 
 # Аудит и оптимизация — 2026-11-09
 
-**Статус этой секции: АКТУАЛЬНЫЙ АУДИТ.** Раздел ниже, озаглавленный «Исторический аудит 2026-11-08», сохраняется для истории и **не является операционным правилом**. Единственные активные нормы — [RULES](../00_SYSTEM/RULES.md), [RUNBOOK](../00_SYSTEM/RUNBOOK.md), [CURRENT](../00_SYSTEM/CURRENT.md) и профильные реестры.
+**Статус этой секции: ИСТОРИЧЕСКИЙ АУДИТ ДО ПОСЛЕДНИХ РЕШЕНИЙ.** Раздел ниже, озаглавленный «Исторический аудит 2026-11-08», сохраняется для истории и **не является операционным правилом**. Единственные активные нормы — [RULES](../00_SYSTEM/RULES.md), [RUNBOOK](../00_SYSTEM/RUNBOOK.md), [CURRENT](../00_SYSTEM/CURRENT.md) и профильные реестры.
 
 ## Выявлено и устранено
 1. **CURRENT превратился в пересказ всей архитектуры и подготовительных решений**, что увеличивает контекст и риск несоответствий. Упрощён до текущего GM=0, статуса Circle, критичных границ и ссылок на специализированные файлы; исторические решения не дублируются.
