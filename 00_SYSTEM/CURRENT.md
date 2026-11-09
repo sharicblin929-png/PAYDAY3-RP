@@ -1,18 +1,18 @@
 # ACTIVE_STATE — оперативный снимок, PAYDAY3-RP
 
-**status=IN_PROGRESS | completed_GM=0034 | next_GM=0035 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:29**
+**status=IN_PROGRESS | completed_GM=0035 | next_GM=0036 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:30**
 **DATE_OVERRIDE:** [CHRONOLOGY_2026](CHRONOLOGY_2026.md): 2023 dates in GM-0001..0020 and SAVE_AFTER_GM-0020 are **legacy calendar labels**, canon is **2026-09-27 (Sunday)** with same time, place, actions and knowledge. **Circle stays 22 in 2026**. No in-world time jump, no replay, no edits to archived GM/SAVE.
 
-**PRIMARY_EVIDENCE:** [GM-0034](../06_CHRONICLE/GM-0034.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
+**PRIMARY_EVIDENCE:** [GM-0035](../06_CHRONICLE/GM-0035.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
 **Knowledge authority:** [NPC_KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md), not the old GM-by-GM summary. This file is an **operational cache**, not a replacement for past evidence.
 
 ## 1 / SCENE — where the NEXT reply begins
-- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:29**. Rainy evening.
-- **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~1 minute away.
+- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:30**. Rainy evening.
+- **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's expected unnamed male acquaintance has ENTERED** at about **21:30** in a dark jacket and is **approaching the far table** after Joy waved. **Not yet at table, no introduction or interaction with Circle, no confirmed identity or knowledge**.
 - **Appearance in this scene:** Circle wears **leather jacket, black jeans, boots and dark turtleneck** (player's correction, GM-0017). **Not** the formal suit/blue gloves. He owns a **Clowninator** mask, but it has **not been established as worn or physically present** at this table. No weapons confirmed carried into the café.
 - **Props / completed actions:** Initially 8 doughnuts: **Circle ate 5**, **Joy ate 1 in full and has a partly eaten second** (**currently placed on her napkin**). **1 whole doughnut remains in the box** nearer Joy; she previously suggested saving it for the expected colleague, contingent on arrival. Circle drank all his tea; Joy finished her cappuccino. Joy paid for food; no Circle debit.
-- **Latest (GM-0034):** After **10 seconds of silence** and with a perfectly serious face, Circle addressed Joy as **«Микелянджело»** despite her request not to invent silly nicknames. Joy mock-protested, jokingly mentioned the Ninja Turtles, countered by calling him **«Митяй»** (not an established permanent nickname), and laughed. **Her real name remains «Мика Накамура»**; no outsiders learned it. Brief exchange did not cross 21:30; colleague still absent, no message or new revelations. Doughnuts unchanged.
-- **Next interaction:** Joy is laughing after Circle's «Микелянджело» joke and her retort «Митяй». **~21:29**, colleague expected ~21:30 (less than a minute or so), **still absent**. Joy's unfinished doughnut on the napkin, one whole is boxed. Only player controls Circle; no automatic arrival, Joy message, gift, gear, or time skip.
+- **Latest (GM-0035):** Circle said he **actually likes Joy's teasing nickname «Митяй»**, comparing it with a cunning, entrepreneurial rogue from an **unnamed Ukrainian TV series**; exact show not yet specified. Joy joked that her attempt at an insult backfired and said she'll keep calling him «Митяй»; **Circle is still the principal codename**, name Дмитрий Орлов. **At ~21:30 the expected male visitor arrived** in a dark jacket. Joy recognized him, **waved**, and he is **approaching the distant table**; **has not spoken, introduced himself, or interacted with Circle**. Identity, precise role and prior knowledge **unknown to Circle and not defined in the scene**. Joy didn't send any message; she privately gave Circle her true name «Мика Накамура» in GM-0033 and this man was absent then.
+- **Next interaction:** ~**21:30** Blue Hour: the **previously expected, still unnamed male visitor has entered the café and is walking toward Joy and Circle's table** after Joy waved. He's not introduced and hasn't spoken. **Only the player controls Circle**; preserve NPC perception/knowledge until established. Joy's partly eaten doughnut stays on its napkin, one whole boxed. No gifts, transfers, jobs or payments.
 
 ## 2 / FACT_LOCKS — DO NOT WRITE AS A FIRST REVELATION
 These are **materialized, already-played facts**; details and who knows them are in [KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md).
@@ -25,7 +25,7 @@ These are **materialized, already-played facts**; details and who knows them are
 - **K07 / GM-0033:** Joy's user-authorized RPG real name is **Мика Накамура / Mika Nakamura**, **privately disclosed by Joy to Circle**. No other NPC's knowledge or official developer attribution implied.
 
 ## 3 / OPEN — genuinely unresolved, NOT in FACT_LOCKS
-- **U01:** identity/arrival time and intentions of Joy's unnamed colleague, what that person knows about Circle.
+- **U01:** Joy's expected acquaintance **arrived ~21:30 and is approaching**; identity, intentions, precise role and what he knows about Circle remain unknown.
 - **U02:** whether and on what terms Circle joins the gang. **He is still a candidate; no assignment or heist begun.** Dallas is respected, **not automatic field commander**.
 - **U03:** gift identity, physical location/availability, whether/when a visit occurs; no gift transferred, no trip agreed.
 - **U04:** Circle's address, exact money balances, weapons/armor on person, ammunition, device counts/charges and precise SPAS-12 and FSA-12G storage. He owns items in [GEAR](../05_ECONOMY/GEAR_REGISTER.md), **not confirmed carried here**. No new purchases/payments.
