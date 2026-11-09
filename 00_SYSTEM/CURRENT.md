@@ -1,18 +1,18 @@
 # ACTIVE_STATE — оперативный снимок, PAYDAY3-RP
 
-**status=IN_PROGRESS | completed_GM=0031 | next_GM=0032 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:27**
+**status=IN_PROGRESS | completed_GM=0032 | next_GM=0033 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:28**
 **DATE_OVERRIDE:** [CHRONOLOGY_2026](CHRONOLOGY_2026.md): 2023 dates in GM-0001..0020 and SAVE_AFTER_GM-0020 are **legacy calendar labels**, canon is **2026-09-27 (Sunday)** with same time, place, actions and knowledge. **Circle stays 22 in 2026**. No in-world time jump, no replay, no edits to archived GM/SAVE.
 
-**PRIMARY_EVIDENCE:** [GM-0031](../06_CHRONICLE/GM-0031.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
+**PRIMARY_EVIDENCE:** [GM-0032](../06_CHRONICLE/GM-0032.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
 **Knowledge authority:** [NPC_KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md), not the old GM-by-GM summary. This file is an **operational cache**, not a replacement for past evidence.
 
 ## 1 / SCENE — where the NEXT reply begins
-- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:27**. Rainy evening.
-- **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~3 minutes away.
+- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:28**. Rainy evening.
+- **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~2 minutes away.
 - **Appearance in this scene:** Circle wears **leather jacket, black jeans, boots and dark turtleneck** (player's correction, GM-0017). **Not** the formal suit/blue gloves. He owns a **Clowninator** mask, but it has **not been established as worn or physically present** at this table. No weapons confirmed carried into the café.
 - **Props / completed actions:** Initially 8 doughnuts: **Circle ate 5**, **Joy ate 1 in full and has a partly eaten second** (**currently placed on her napkin**). **1 whole doughnut remains in the box** nearer Joy; she previously suggested saving it for the expected colleague, contingent on arrival. Circle drank all his tea; Joy finished her cappuccino. Joy paid for food; no Circle debit.
-- **Latest (GM-0031):** Circle **sarcastically grinned and looked Joy straight in the eyes** while making another crude remark about the image evoked by the allegedly indecent video from GM-0030. Joy laughed at her ruined appetite, called him a bastard in friendly banter and **jokingly** threatened to find something unpleasant to remind him of; no actual plan. She **pushed her napkin with the partly eaten doughnut farther away**, without eating more. She glanced at the entrance and joked that the unnamed colleague is still missing. **One whole doughnut in the box, guest absent, no message, equipment, contract, gift or payment**.
-- **Next interaction:** Joy and Circle are bantering at **~21:27**, colleague still expected ~21:30 (~3 min). Joy's partly eaten doughnut remains on a napkin pushed away from her, **one whole remains boxed**. Only the player controls Circle. No automatic arrival, message, gift, gear or time skip.
+- **Latest (GM-0032):** Circle noticed and questioned **how Joy knew his surname «Орлов»**, and hoped she had not investigated much more. Joy explained she **checked his basic identity (name, surname, some unspecified ordinary info) before arranging this introduction**, but **said she did not know his «Ювелир» heists before today's talk** and learned his parents, university and shotgun interests from him in this café. The exact background-check source/method, additional results and whether anybody else has these facts are **not established**; this is Joy's account, not independent proof. She teased Circle about being able to surprise him. **No gift, visit, message, guest arrival, job, gear or payments**.
+- **Next interaction:** Joy has explained her limited pre-meeting identity check and is smiling at Circle. **~21:28**, colleague expected ~21:30 (~2 min), still not present. Her partly eaten doughnut remains on the napkin, one whole is boxed. Only the player controls Circle; no automatic guest arrival, Joy message, gift, gear or time skip.
 
 ## 2 / FACT_LOCKS — DO NOT WRITE AS A FIRST REVELATION
 These are **materialized, already-played facts**; details and who knows them are in [KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md).
