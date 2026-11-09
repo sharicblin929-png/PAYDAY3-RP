@@ -1,18 +1,18 @@
 # ACTIVE_STATE — оперативный снимок, PAYDAY3-RP
 
-**status=IN_PROGRESS | completed_GM=0032 | next_GM=0033 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:28**
+**status=IN_PROGRESS | completed_GM=0033 | next_GM=0034 | save=SAVE_AFTER_GM-0020 | game_date=2026-09-27 | game_time≈21:29**
 **DATE_OVERRIDE:** [CHRONOLOGY_2026](CHRONOLOGY_2026.md): 2023 dates in GM-0001..0020 and SAVE_AFTER_GM-0020 are **legacy calendar labels**, canon is **2026-09-27 (Sunday)** with same time, place, actions and knowledge. **Circle stays 22 in 2026**. No in-world time jump, no replay, no edits to archived GM/SAVE.
 
-**PRIMARY_EVIDENCE:** [GM-0032](../06_CHRONICLE/GM-0032.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
+**PRIMARY_EVIDENCE:** [GM-0033](../06_CHRONICLE/GM-0033.md), [SAVE_AFTER_GM-0020](../07_SAVES/SAVE_AFTER_GM-0020.md).
 **Knowledge authority:** [NPC_KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md), not the old GM-by-GM summary. This file is an **operational cache**, not a replacement for past evidence.
 
 ## 1 / SCENE — where the NEXT reply begins
-- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:28**. Rainy evening.
-- **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~2 minutes away.
+- **Location:** Blue Hour coffee shop, Hell's Kitchen, Manhattan, 10th Ave between W 47th and W 48th St. Far table. **Sunday, 27 Sep 2026, ~21:29**. Rainy evening.
+- **Present:** Circle (player-controlled) and Joy (NPC) at the table; barista and unconfirmed ordinary customers elsewhere. **Joy's unnamed colleague has NOT arrived**; their earlier meeting reference was around **21:30**, ~1 minute away.
 - **Appearance in this scene:** Circle wears **leather jacket, black jeans, boots and dark turtleneck** (player's correction, GM-0017). **Not** the formal suit/blue gloves. He owns a **Clowninator** mask, but it has **not been established as worn or physically present** at this table. No weapons confirmed carried into the café.
 - **Props / completed actions:** Initially 8 doughnuts: **Circle ate 5**, **Joy ate 1 in full and has a partly eaten second** (**currently placed on her napkin**). **1 whole doughnut remains in the box** nearer Joy; she previously suggested saving it for the expected colleague, contingent on arrival. Circle drank all his tea; Joy finished her cappuccino. Joy paid for food; no Circle debit.
-- **Latest (GM-0032):** Circle noticed and questioned **how Joy knew his surname «Орлов»**, and hoped she had not investigated much more. Joy explained she **checked his basic identity (name, surname, some unspecified ordinary info) before arranging this introduction**, but **said she did not know his «Ювелир» heists before today's talk** and learned his parents, university and shotgun interests from him in this café. The exact background-check source/method, additional results and whether anybody else has these facts are **not established**; this is Joy's account, not independent proof. She teased Circle about being able to surprise him. **No gift, visit, message, guest arrival, job, gear or payments**.
-- **Next interaction:** Joy has explained her limited pre-meeting identity check and is smiling at Circle. **~21:28**, colleague expected ~21:30 (~2 min), still not present. Her partly eaten doughnut remains on the napkin, one whole is boxed. Only the player controls Circle; no automatic guest arrival, Joy message, gift, gear or time skip.
+- **Latest (GM-0033):** Circle asked Joy for her actual name and **explicitly authorized inventing it OOC**. Joy, after joking «Джой», **voluntarily revealed her real name «Мика Накамура» (Mika Nakamura)**, quietly to Circle. This name is **USER-AUTHORIZED ORIGINAL RPG CANON, NOT OFFICIAL PAYDAY BIOGRAPHY**; she remains known as Joy and asked Circle not to say her name loudly or invent silly diminutives. **Only Circle and Joy** are established to have heard this reveal; no third-party transmission or NPC omniscience. Her legal documents, family or further past are not defined. Guest still absent, no gift/message/contract.
+- **Next interaction:** Joy has just disclosed **«Мика Накамура»** as her real name in private conversation with Circle; awaiting his response. **~21:29**, colleague expected ~21:30 (~1 min), still absent. Her partly eaten doughnut on the napkin, one whole remains boxed. Only the player controls Circle; no automatic colleague arrival, Joy message, gifts, equipment or time skip.
 
 ## 2 / FACT_LOCKS — DO NOT WRITE AS A FIRST REVELATION
 These are **materialized, already-played facts**; details and who knows them are in [KNOWLEDGE_LEDGER](../01_WORLD/NPC_KNOWLEDGE_LEDGER.md).
@@ -22,6 +22,7 @@ These are **materialized, already-played facts**; details and who knows them are
 - **K04 / GM-0003–0004:** Circle and Joy have already met **in person** for the first time tonight, talked and sat together; no repeat introductions.
 - **K05 / GM-0005:** Joy **already heard** Circle's statement that he is the newspaper «Ювелир». **She has not independently verified that claim.**
 - **K06 / GM-0028:** Circle **already knew** of Joy working with the gang since Washington; she **confirmed** this general history in dialogue. **Not a first reveal** of membership, and no detailed Washington operations revealed.
+- **K07 / GM-0033:** Joy's user-authorized RPG real name is **Мика Накамура / Mika Nakamura**, **privately disclosed by Joy to Circle**. No other NPC's knowledge or official developer attribution implied.
 
 ## 3 / OPEN — genuinely unresolved, NOT in FACT_LOCKS
 - **U01:** identity/arrival time and intentions of Joy's unnamed colleague, what that person knows about Circle.
